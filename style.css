@@ -1,0 +1,38 @@
+body {
+    background-color: #def6fc; 
+    text-align: center;}
+
+h1 {color: #284B63;
+    font-family: "Brush Script MT", cursive;
+    text-align: center;
+    font-size: 80px;
+    padding-left: 10px;}
+p {color:navyblue;
+    font-size: 20px;
+    padding-left: 210px;
+    padding-right: 210px;
+    }
+
+ul {
+    list-style-type: none;
+    background-color: black;
+    overflow: hidden;
+    padding : 1000;
+    }
+
+    li {
+    display: inline;
+      }
+
+    li a {
+    text-decoration: none;
+    color: #284B63;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin: center;
+    }
+    li a:hover {
+    background-color:#4ba3ec;
+    }
